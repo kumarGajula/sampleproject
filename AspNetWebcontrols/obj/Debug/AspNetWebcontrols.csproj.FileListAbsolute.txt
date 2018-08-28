@@ -2,7 +2,6 @@ c:\users\kgajula\documents\visual studio 2010\Projects\AspNetWebcontrols\AspNetW
 c:\users\kgajula\documents\visual studio 2010\Projects\AspNetWebcontrols\AspNetWebcontrols\bin\AspNetWebcontrols.pdb
 c:\users\kgajula\documents\visual studio 2010\Projects\AspNetWebcontrols\AspNetWebcontrols\obj\Debug\AspNetWebcontrols.dll
 c:\users\kgajula\documents\visual studio 2010\Projects\AspNetWebcontrols\AspNetWebcontrols\obj\Debug\AspNetWebcontrols.pdb
-D:\GitRepository\Source\WebApp\AspNetWebcontrols\obj\Debug\AspNetWebcontrols.csprojResolveAssemblyReference.cache
 D:\GitRepository\Source\WebApp\AspNetWebcontrols\obj\Debug\AspNetWebcontrols.dll
 D:\GitRepository\Source\WebApp\AspNetWebcontrols\obj\Debug\AspNetWebcontrols.pdb
 D:\GitRepository\Source\WebApp\AspNetWebcontrols\bin\AspNetWebcontrols.dll.config
