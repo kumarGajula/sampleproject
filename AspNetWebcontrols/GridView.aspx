@@ -11,8 +11,7 @@
       <div style="margin-left:150px;width:700px;border: 4mm ridge #f0ad4e;float:left ">
     <h2 style="color:Blue;text-align:center">Dotnet  Demo  </h2>
        <div style="border: 1px solid;"></div>
-    <div  style="padding-left:50px">    
-    
+    <div  style="padding-left:50px">     
       
        
            <h2>Login Control</h2>
