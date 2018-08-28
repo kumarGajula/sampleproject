@@ -48,15 +48,15 @@ namespace AspNetWebcontrols
 
         protected void GridView1_RowCommand(object sender, GridViewCommandEventArgs e)
         {
-            if (e.CommandName == "Edit")
-            {
-                lbloutput.Text ="This is row edit link click";
-            }
+            //if (e.CommandName == "Edit")
+            //{
+            //    lbloutput.Text ="This is row edit link click";
+            //}
 
-            if (e.CommandName == "Delete")
-            {
-               lbloutput.Text ="This is row delete link click";
-            }
+            //if (e.CommandName == "Delete")
+            //{
+            //   lbloutput.Text ="This is row delete link click";
+            //}
         }
 
         protected void GridView1_RowEditing(object sender, GridViewEditEventArgs e)
